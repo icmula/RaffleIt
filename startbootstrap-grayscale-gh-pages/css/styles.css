@@ -11693,16 +11693,17 @@ body {
 }
 
 /*--------------------------------------------------------------
-# Services
+# Advantages
 --------------------------------------------------------------*/
 .services {
-  background: #24272b;
+  background: #000;
   padding-top: 40px;
   padding-bottom: 80px;
 
 }
 .services .section-title h2, .services .section-title p {
   color: #fff;
+  padding-bottom: 20px;
 }
 
 .services .icon-box {
@@ -11723,7 +11724,7 @@ body {
 .services .icon i {
   font-size: 32px;
   line-height: 1;
-  color: #24272b;
+  color: #000;
   background: #eff2f8;
   padding: 20px;
   border-radius: 50px;
@@ -11735,7 +11736,7 @@ body {
   font-size: 18px;
 }
 .services .title a {
-  color: #24272b;
+  color: #000;
   transition: 0.3s;
 }
 
@@ -11753,7 +11754,7 @@ body {
 }
 
 .faq .section-title {
-  padding-bottom: 0px;
+  padding-bottom: 30px;
 }
 
 .faq .faq-list {
